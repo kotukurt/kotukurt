@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kotukurt
+- 👋 Hi, I’m @yunus
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C and python
 - 💞️ I’m looking to collaborate on projects related to machine learning
